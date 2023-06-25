@@ -15,8 +15,8 @@ In this project, two machine learning algorithms, namely SVM (Support Vector Mac
 
 🔬 **Model Evaluation**
 
-Here are the evaluation results for the sentiment analysis models:
 
+Here are the evaluation results for the sentiment analysis models:
 
 🔹 **SVM**
 Accuracy: 85.3%
@@ -24,7 +24,10 @@ Accuracy: 85.3%
 🔹 **Logistic Regression**
 Accuracy: 90.6%
 
+
 These results demonstrate the performance of the models in classifying the sentiment of textual data, with the Logistic Regression model achieving a higher accuracy of 90.6% compared to the SVM model's accuracy of 85.3%.
+
+
 
 
 
