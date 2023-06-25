@@ -1,4 +1,4 @@
-🌟 **Sentiment Analysis Using PySpark: Classification of Textual Data into Positive or Negative Sentiments** 🌟
+ **Sentiment Analysis Using PySpark: Classification of Textual Data into Positive or Negative Sentiments** 
 
 The primary focus of this project is to utilize PySpark, a robust distributed computing framework for large-scale data processing, for sentiment analysis. The objective is to employ a machine learning approach to classify textual data into either positive or negative sentiments.
 
@@ -28,5 +28,5 @@ Accuracy: 90.6%
 These results demonstrate the performance of the models in classifying the sentiment of textual data, with the Logistic Regression model achieving a higher accuracy of 90.6% compared to the SVM model's accuracy of 85.3%.
 
 
-In conclusion,Let the power of PySpark guide you to uncover the hidden sentiments within the vast sea of textual data. Happy analyzing! 🌟
+In conclusion,Let the power of PySpark guide you to uncover the hidden sentiments within the vast sea of textual data. Happy analyzing! ✨
 
